@@ -1,4 +1,7 @@
 {
     "results_matching": "%1 resuldado(s) coinciden con \"%2\". (%3 segundos)",
-    "no-matches": "No se encontraron publicaciones"
+    "no-matches": "No se encontraron publicaciones",
+    "in": "En", //in
+    "by": "De", //by
+    "posted_by": "Publicado por" //posted-by
 }
